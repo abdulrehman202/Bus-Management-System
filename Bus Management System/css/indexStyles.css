@@ -1,0 +1,11 @@
+.addSpace{
+	margin-left: 10px;
+}
+
+.setColor{
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+    color:#000;
+}
